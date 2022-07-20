@@ -3,4 +3,7 @@
 *hosts
 logs
 *.cache
-
+.cache
+*.idea
+*dev_local
+*_local
