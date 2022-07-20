@@ -1,4 +1,8 @@
 *venv
+*build.sh
+*hosts
+logs
+*.cache
 .cache
 *.idea
 *dev_local
